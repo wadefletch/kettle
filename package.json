@@ -1,0 +1,12 @@
+{
+  "name": "kettle",
+  "version": "1.0.0",
+  "description": "A lightweight boilerplate templating engine. Inspired by the popular Python cookiecutter package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Wade Fletcher",
+  "license": "MIT"
+}
